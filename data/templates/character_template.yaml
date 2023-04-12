@@ -1,0 +1,29 @@
+---
+# all coordiates are in pixels
+name:
+  x: 172
+  y: 470
+splash_art:
+  x: 60
+  y: 100
+  w: 225
+  h: 300
+attr_1:
+  x: 172
+  y: 410
+  offset: 30
+  sur_color: '#40ad40'
+  ten_color: '#23399e'
+  mig_color: '#c74242'
+attr_2:
+  x: 172
+  y: 440
+  offset: 45
+  int_color: '#e0e349'
+  wit_color: '#7926a3'
+attr_3:
+  x: 172
+  y: 525
+  offset: 55
+  hp_color: '#ff0000'
+  res_color: '#0000ff'
